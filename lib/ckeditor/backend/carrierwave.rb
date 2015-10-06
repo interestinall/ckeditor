@@ -1,4 +1,5 @@
-require 'mini_magick'
+#require 'mini_magick'
+#require 'rmagick'
 
 module Ckeditor
   module Backend
